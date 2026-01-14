@@ -1,4 +1,4 @@
-# Dinesh K — ML Engineer (Deep Learning + Data Engineering)
+# DineshGanji Narsimha — ML/Data Engineer (Deep Learning + Data Engineering)
 
 I build production-grade ML systems: streaming/batch pipelines, feature engineering, model training, and low-latency serving.
 
