@@ -10,7 +10,7 @@ I build production-grade ML systems: streaming/batch pipelines, feature engineer
 Kafka → Streaming ETL → Bronze/Silver/Gold Lakehouse → Feature Pipeline → PyTorch Tabular DL → FastAPI Serving → Drift + Data Quality Monitoring  
 Repo: https://github.com/dineshkgn/real-time-risk-scoring-lakehouse
 
-## Deep Learning
+### Deep Learning
 - Reproducible experiments and benchmarks: https://github.com/dineshkgn/deep-learning-lab
 
 ## Stack
